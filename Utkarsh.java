@@ -6,7 +6,7 @@ public class Utkarsh {
 		for(  int i=0; i<10; i++)
 		{
 			System.out.println("welcome to java sssssssssssssssssss ..."+i);
-			
+// this is comment			
 		}
 
 	}
